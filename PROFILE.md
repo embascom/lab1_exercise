@@ -16,6 +16,4 @@ Here are some of my favorite foods:
 
 My favorite quote is:
 > "Sleep did not honor me with it's presence." 
-- Alysha Speer
-
-[quote link](https://www.goodreads.com/quotes/tag/tired)
+> [Alysha Speer](https://www.goodreads.com/quotes/tag/tired)
