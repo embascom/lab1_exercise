@@ -4,7 +4,7 @@
 
 ### Freshman
 
-![picture of me](ECB_6067)
+![picture of me](ECB_6067.jpg)
 
 I am an _Alpine Skier_ here at **UW**. I plan on majoring in _Informatics_.
 
